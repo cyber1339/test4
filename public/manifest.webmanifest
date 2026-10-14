@@ -1,0 +1,11 @@
+{
+  "name": "REPQUEST",
+  "short_name": "REPQUEST",
+  "description": "Train. Fight. Evolve.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#09090d",
+  "theme_color": "#09090d",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
